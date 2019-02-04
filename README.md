@@ -1,5 +1,3 @@
-# chord_progression_assistant
-
 # Description of datasets:
 
 All datasets were produced using the [Hooktheory API](https://www.hooktheory.com/api/trends/docs) and the [Spotify API](https://developer.spotify.com/documentation/web-api/).
