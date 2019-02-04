@@ -4,7 +4,7 @@
 
 All datasets were produced using the [Hooktheory API](https://www.hooktheory.com/api/trends/docs) and the [Spotify API](https://developer.spotify.com/documentation/web-api/).
 
-Given a chord progression, the Hooktheory database annotates all of its child progressions with the proportion of songs containing that child node. For example, of all songs containing the progression "I, IV, vi", 55% are followed by "V" and 14% are followed by "IV".
+Given a chord progression, the Hooktheory database annotates all of its child progressions with the proportion of songs containing that child node. For example, of all songs containing the progression "I, IV, vi", 55% are followed by "V" and 14% are followed by "IV". Information about interpreting the Hooktheory chord notation can be found [here](http://forum.hooktheory.com/t/vizualitation-of-all-chord-progressions-kinda/164/2).
 
 Chord progressions were pulled from the Hooktheory database as follows:
 * First, all one length chord progressions (single chords) which were contained in at least %5 of the Hooktheory song database were pulled.
